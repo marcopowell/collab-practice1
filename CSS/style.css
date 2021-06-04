@@ -1,3 +1,25 @@
-body {
-    color: blue;
+.container-fluid {
+    border: 2px solid ;
+
+}
+
+.col-4 {
+    justify-content: space-evenly;
+    border: 2px solid;
+    background-color: orange;
+}
+
+.row {
+    border: 2px solid;
+}
+
+.col {
+    border: 2px solid;
+    height: 860px;
+    background-color: green;
+}
+
+.col-sm {
+    background-color: indigo;
+    color: white;
 }
